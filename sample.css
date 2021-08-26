@@ -41,9 +41,9 @@ body {
   color:#f7f3eb; 
   text-align:center; 
   width:42px; 
-  height:42px; 
+  height:48px; 
   display:inline-block; 
-  /*float:left;*/
+  float:left;
   overflow:hidden; 
   line-height:40px;
 }

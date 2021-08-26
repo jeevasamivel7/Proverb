@@ -43,7 +43,7 @@ body {
   width:42px; 
   height:42px; 
   display:inline-block; 
-  float:none;
+  /*float:left;*/
   overflow:hidden; 
   line-height:40px;
 }

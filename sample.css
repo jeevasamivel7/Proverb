@@ -5,7 +5,7 @@ body {
 .jzdbox1 {
   width:315px; 
   background:#332f2e; 
-  border-radius:5px; 
+  border-radius:4px; 
   overflow:hidden; 
   display:block; 
   margin-bottom:10px; 
@@ -41,12 +41,13 @@ body {
   color:#f7f3eb; 
   text-align:center; 
   width:42px; 
-  height:48px; 
+  height:42px; 
   display:inline-block; 
   float:left;
   overflow:hidden; 
   line-height:40px;
 }
+
 
 .jzdcal .jzdb:before {
   opacity:0.3; 
@@ -64,7 +65,7 @@ div[data-title]:hover:after {
   font:11px 'Roboto'; 
   font-weight:400; 
   content:attr(data-title); 
-  position:absolute; 
+  position:relative; 
   margin:0 0 100px; 
   background:#282423; 
   border:1px solid #f7f3eb; 
